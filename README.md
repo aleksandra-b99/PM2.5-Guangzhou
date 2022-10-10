@@ -5,7 +5,7 @@
 #### Analysis of PM2.5 in Guangzhou and making predictive models using Linear regression algorithms
 #### Files:
 - **report.pdf**: report of analisys
-- **project.ipynb**: python code
+- **projectPM2.5.ipynb**: python code
 - **GuangzhouPM20100101_20151231.csv**: data set
 #### Technology:
 - Python
