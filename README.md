@@ -10,5 +10,15 @@
 #### Technology:
 - Python
 #### Data decription:
+- Year / Month / Day / Hour
+- Season
+# * DEWP: Dew Point (Celsius Degree)
+# * TEMP: Temperature (Celsius Degree)
+# * HUMI: Humidity (%)
+# * PRES: Pressure (hPa)
+# * cbwd: Combined wind direction
+# * Iws: Cumulated wind speed (m/s)
+# * precipitation: hourly precipitation (mm)
+# * Iprec: Cumulated precipitation (mm)
 
 
