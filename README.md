@@ -2,7 +2,7 @@
 ## Analisys and prediction concentration PM2.5  in Guangzhou
 ## Student project for a cours Pattern recognition
 ## Decription:
-#### Analysis of PM2.5 in Guangzhou and making predictive models using Linear regression algorithms
+#### Analysis of PM2.5 in Guangzhou and making predictive models using Linear regression algorithm
 #### Files:
 - **report.pdf**: report of analisys
 - **projectPM2.5.ipynb**: python code
